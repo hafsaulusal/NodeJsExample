@@ -1,0 +1,11 @@
+{
+"name":"iosocket",
+"version":"1.0.0",
+"description":"socket chat",
+"main":"server.js",
+"dependencies":{
+"socket.io":"*",
+"express":"*"
+}
+
+}
